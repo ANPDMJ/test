@@ -1,0 +1,10 @@
+total 43
+-rw-r--r-- 1 YUHAN 197121 35823 Apr 16 10:36 LICENSE
+-rw-r--r-- 1 YUHAN 197121   136 Apr 16 10:36 README.md
+-rw-r--r-- 1 YUHAN 197121    80 Apr 16 11:06 new.txt
+-rw-r--r-- 1 YUHAN 197121    89 Apr 16 11:08 new2.txt
+-rw-r--r-- 1 YUHAN 197121   388 Apr 16 10:36 test.txt
+-rw-r--r-- 1 YUHAN 197121    49 Apr 16 10:36 test_ver01.txt
+-rw-r--r-- 1 YUHAN 197121    45 Apr 16 10:36 test_ver02.txt
+-rw-r--r-- 1 YUHAN 197121    45 Apr 16 10:36 test_ver03.txt
+-rw-r--r-- 1 YUHAN 197121     0 Apr 16 11:11 work.txt
