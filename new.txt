@@ -1,7 +1,17 @@
-LICENSE
-README.md
-new.txt
-test.txt
-test_ver01.txt
-test_ver02.txt
-test_ver03.txt
+total 62
+drwxr-xr-x 1 YUHAN 197121     0 May  7 09:35 ./
+drwxr-xr-x 1 YUHAN 197121     0 Apr 16 11:01 ../
+drwxr-xr-x 1 YUHAN 197121     0 May  7 10:09 .git/
+-rw-r--r-- 1 YUHAN 197121  7788 Apr 16 10:36 .gitignore
+-rw-r--r-- 1 YUHAN 197121 35823 Apr 16 10:36 LICENSE
+-rw-r--r-- 1 YUHAN 197121   136 Apr 16 10:36 README.md
+-rw-r--r-- 1 YUHAN 197121   116 May  7 09:35 aaa.txt
+-rw-r--r-- 1 YUHAN 197121     0 May  7 10:10 new.txt
+-rw-r--r-- 1 YUHAN 197121    89 Apr 16 11:08 new2.txt
+-rw-r--r-- 1 YUHAN 197121   124 May  7 09:35 s1.txt
+-rw-r--r-- 1 YUHAN 197121   132 May  7 09:35 s2.txt
+-rw-r--r-- 1 YUHAN 197121   388 Apr 16 10:36 test.txt
+-rw-r--r-- 1 YUHAN 197121    49 Apr 16 10:36 test_ver01.txt
+-rw-r--r-- 1 YUHAN 197121    45 Apr 16 10:36 test_ver02.txt
+-rw-r--r-- 1 YUHAN 197121    45 Apr 16 10:36 test_ver03.txt
+-rw-r--r-- 1 YUHAN 197121   522 Apr 16 11:16 work.txt
